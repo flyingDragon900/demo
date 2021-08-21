@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-const name = "Chinu"
+const name = "rahul"
 const currDate = new Date().toLocaleDateString();
 const currTime = new Date().toLocaleTimeString();
 
